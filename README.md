@@ -28,7 +28,7 @@ Ultimately, a three-tiered interface has been developed, leveraging the best-per
 In this repository you will find useful scripts for training models, testing them, creating new data, and using a simple web page for a more visual way to test the results.
 
 ![Interface]
-()
+(https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/JewelryLinguistics_Interface.jpg)
 
 # Installation
 ## Download project
