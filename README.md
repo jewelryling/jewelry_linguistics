@@ -53,17 +53,23 @@ You can install all the needed libraries by using this command:
 You'll need to create in the main directory the following folders:
 
 - data. In this folder the script will save the encripted images of an specific dataset using a specific CNN.
-- input. In this folder the datasets will be placed.
+- input. In this folder the database will be placed.
 - models. In this folder the created models will be saved. It is recomended to create inside it a folder for each dataset with their same names.
 
-## Download datasets
-You can download the three datasets with the following command:
+## Download database
+You can download the database with the following command:
 
 `$ python3 src/download.py`
 
-You'll obtain three zip files, which you can unzip inside the input folder. The Accesorios_Genericos_bd dataset will be used for the simple captions. The Doñasol_bd dataset will be used for the medium captions. The Baquerizo_Joyeros_bd dataset will be used for the complete captions.
+Also the database is available to be downloaded at:
 
-You should also download the pre-trained spanish word vectors to be able to use them during experiments using this [link](https://www.kaggle.com/rtatman/pretrained-word-vectors-for-spanish).
+[link](https://drive.google.com/drive/folders/1-qXrkI3zuGNauhF4DIyOBhJeL8C-6MqN?usp=sharing)
+
+You'll obtain three zip files, which you can unzip inside the input folder. The Accesorios_Genericos_bd database will be used for the simple captions. The Doñasol_bd database will be used for the medium captions. The Baquerizo_Joyeros_bd database will be used for the complete captions.
+
+You should also download the pre-trained spanish word vectors to be able to use them during the experiments at [link](https://www.kaggle.com/rtatman/pretrained-word-vectors-for-spanish).
+
+On the other hand, the pre-trained english word vectors to be used during the experiments can be downloaded at [link](https://fasttext.cc/docs/en/english-vectors.html).
 
 # Create and train models
 You can train a model using train.py. For example, for training a model using Baquerizo Joyeros dataset:
