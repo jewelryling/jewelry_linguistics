@@ -27,8 +27,7 @@ Ultimately, a three-tiered interface has been developed, leveraging the best-per
 
 In this repository you will find useful scripts for training models, testing them, creating new data, and using a simple web page for a more visual way to test the results.
 
-![Interface]
-(https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/JewelryLinguistics_Interface.jpg)
+![Interface](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/JewelryLinguistics_Interface.png)
 
 # Installation
 ## Download project
@@ -110,6 +109,8 @@ Now enter to localhost:5000 using any web explorer and you'll be able to use the
 
 You'll be able to upload any local image and choose any caption level. Push the button and the result will appear. You can repeat the process every time you want.
 
-![Choosing level on interface]()
+![Basic Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/BasicDescription.jpeg)
 
-![Results interface]()
+![Normal Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/NormalDescription.jpeg)
+
+![Complete Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/CompleteDescription.jpeg)
