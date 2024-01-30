@@ -111,6 +111,6 @@ You'll be able to upload any local image and choose any caption level. Push the 
 
 ![Basic Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/BasicDescription.jpeg)
 
-![Normal Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/NormalDescription.jpeg)
+![Normal Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/Normal_Description.jpeg)
 
 ![Complete Description](https://raw.githubusercontent.com/jewelryling/jewelry_linguistics/main/interface/CompleteDescription.jpeg)
